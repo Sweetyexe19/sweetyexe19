@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sweetyexe19/sweetyexe19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![](https://99px.ru/sstorage/86/2019/12/image_861212190723054107708.gif)
 
-Here are some ideas to get you started:
+  # Привет, я **sweetyexe** 👋
+  *19 y.o. | Пишу код, пока мир спит ☕*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### 💬 Обо мне в двух строчках
+  Студент, энтузиаст и охотник за багами. Верю, что каждая задача — это пазл, а каждый удачный коммит — маленькая победа.
+
+  ---
+
+  ### 🌱 Сейчас углубляюсь в
+  Swift | Python | Web (HTML/CSS/JS) | и в искусство приготовления рабочего кофе
+
+  ### 📫 Как со мной связаться
+  **Telegram:** [@sweetyexe](https://t.me/sweetyexe)  
+  **Почта:** `sweetyexe@proton.me` *(отвечаю на интересные предложения и мемы)*
+
+  ### 🌍 Языки
+  **Русский** — родной  
+  **English** — B2 (читаю документацию, смотрю туториалы, понимаю иронию в коммитах)
+
+  ---
+
+  ### 💻 Языки и инструменты, с которыми знаком
+  <img src="https://skillicons.dev/icons?i=python,swift,js,html,css,c,cpp,git,linux,figma&perline=10" />
+
+  ---
+
+  ### 📈 Недельная активность
+  ![Пока что тишина... но это только начало!](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6BD7&width=435&lines=No+activity+tracked...+yet!;The+next+big+thing+is+loading...;Code+is+brewing+%F0%9F%8D%B5)
+
+  ---
+
+  <sub>⚡ Факт обо мне: могу дебажить код под lo-fi beats до самого утра.</sub>
+
+</div>
