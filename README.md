@@ -2,37 +2,37 @@
 
   ![](https://99px.ru/sstorage/86/2019/12/image_861212190723054107708.gif)
 
-  # Привет, я **sweetyexe** 👋
+  # Hi, I'm **sweetyexe** 👋
   *Stanislav | 19 y.o *
 
-  ### 💬 Обо мне
-  Охота за жуками.
+  ### 💬 About me
+  Python backend developer.
 
   ---
 
-  ### 🌱 Сейчас углубляюсь в
+  ### 🌱 Working
   Python (FastAPI) | Web (React) |
 
-  ### 📫 Как со мной связаться
+  ### 📫 Contacts
   **Telegram:** [@lvlsc](https://t.me/lvlsc)  
-  **Почта:** `sweetyexe@proton.me` *(отвечаю на интересные предложения и мемы)*
+  **Почта:** `sweetyexe@proton.me` 
 
-  ### 🌍 Языки
-  **Русский** — родной  
-  **English** — B2 (читаю документацию, смотрю туториалы, понимаю иронию в коммитах)
+  ### 🌍 Languages
+  **Russian** — native  
+  **English** — B2 
 
   ---
 
-  ### 💻 Языки и инструменты, с которыми знаком
+  ### 💻 Skills
   <img src="https://skillicons.dev/icons?i=python,swift,js,html,css,c,cpp,git,linux,figma&perline=10" />
 
   ---
 
-  ### 📈 Недельная активность
+  ### 📈 Activity
   ![Пока что тишина... но это только начало!](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6BD7&width=435&lines=No+activity+tracked...+yet!;The+next+big+thing+is+loading...;Code+is+brewing+%F0%9F%8D%B5)
 
   ---
 
-  <sub>⚡ Факт обо мне: могу дебажить код под lo-fi beats до самого утра.</sub>
+  <sub>⚡ 1000000 commit: "Little сhanges".</sub>
 
 </div>
